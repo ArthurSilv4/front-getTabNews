@@ -54,7 +54,7 @@ function App() {
       </p>
 
       <p>
-        Url de exemplo: <code>https://gettabnews.onrender.com/posts?filter=[pitch]</code>
+        Url de exemplo: <code>https://gettabnews.onrender.com/posts?filter={filtro}</code>
       </p>
 
       <form
