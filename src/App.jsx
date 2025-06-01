@@ -50,7 +50,7 @@ function App() {
     <div style={{ maxWidth: '100vw', overflowX: 'auto', padding: '1em', boxSizing: 'border-box' }}>
       <h1>Get TabNews</h1>
       <p>
-        Esta rota retorna os últimos 100 posts cujo título começa com o valor informado no parâmetro de filtro. O filtro é aplicado ao início do título, permitindo buscar rapidamente conteúdos que correspondam ao prefixo desejado.
+        Esta rota faz uma busca nos ultimos 100 posts do site e verifica se o título começa com o valor informado no parâmetro de filtro. O filtro é aplicado ao início do título, permitindo buscar rapidamente conteúdos que correspondam ao prefixo desejado.
       </p>
 
       <p>
